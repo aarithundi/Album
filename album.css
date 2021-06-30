@@ -1,0 +1,69 @@
+body
+{
+	background-color: lightblue;
+	width: 100%;
+	margin-left: 100px;
+	margin-top: 50px;
+ 
+
+}
+
+h1
+{
+	color: lightblue;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 35pt;
+}
+
+
+ol
+{
+	color: lightblue;
+	font-family: sans-serif;
+	text-decoration: italic;
+	font-size: 15pt;
+	font-weight: bold;
+}
+
+a
+{
+	font-size: 20pt;
+}
+
+
+h3
+
+{
+	font-size: 25pt;
+}
+
+
+
+table 
+{
+	background-color: lightcyan;
+	font-size: 20pt;
+	border-color: darkcyan;
+	border-width: 5px;
+	color: darkslateblue;
+}
+
+h2
+{
+	font-size: 20pt;
+	font-family: sans-serif;
+}
+
+div
+{
+	background-color: black;
+	width: 20%;
+	border: 5px solid blue;
+	padding: 30px 30px 30px 30px;
+}
+
+img 
+{
+	border:  5px solid black;
+}
